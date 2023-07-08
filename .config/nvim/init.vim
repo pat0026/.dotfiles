@@ -3,13 +3,14 @@
 :set autoindent
 :set tabstop=4
 :set shiftwidth=4
-:set smarttab
+:set expandtab
 :set softtabstop=4
 :set mouse=a
 :set showmatch
 :set hlsearch
 :set wildmode=longest,list
 :set cc=88
+:set clipboard+=unnamedplus
 
 call plug#begin()
 
