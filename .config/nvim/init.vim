@@ -51,3 +51,4 @@ nnoremap <C-t> :NvimTreeToggle<CR>
 :lua require('nvim-tree').setup {}
 :lua require('lsp')
 :lua require('gitsigns').setup {}
+:lua require("mason").setup {}
