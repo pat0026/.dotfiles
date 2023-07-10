@@ -11,6 +11,7 @@
 :set wildmode=longest,list
 :set cc=88
 :set clipboard+=unnamedplus
+:set scrolloff=8
 
 call plug#begin()
 
